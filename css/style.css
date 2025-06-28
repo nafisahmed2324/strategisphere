@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caro-im{
+    height: 600px;
+}
+.chess{
+    object-fit: cover;
+    display: block;
+    width: 100%;
+}
